@@ -4,6 +4,7 @@ We are going to develop multiple extensions for Atom. Each extension will have i
 
 ### MemoryBro
 An Atom extension that will check for memory leaks.
+
 https://github.com/mukulio/MemoryBro
 
 ### Multi-Highlight
