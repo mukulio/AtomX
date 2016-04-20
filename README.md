@@ -10,4 +10,4 @@ https://github.com/mukulio/MemoryBro
 ### Multi-Highlight
 An high energy Atom extension that will make Atom great again!![DT](img/DT.jpg)
 
-[https://github.com/SLiNv/multi-highlight](https://github.com/SLiNv/multi-highlight)
+[https://github.com/nathanpotolsky/highlight-selected](https://github.com/nathanpotolsky/highlight-selected)
